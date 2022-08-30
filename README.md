@@ -7,10 +7,10 @@
 4. [Credits](#credits)
 
 
-##Description
+## Description
 
-##How to join
+## How to join
 
-##How it works
+## How it works
 
-##Credits
+## Credits
