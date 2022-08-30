@@ -8,7 +8,7 @@
 
 
 ## Description
-
+This all started when chat reporting was added, I don't think many people liked it at all. New mods and plugins came out, removing/blocking chat reporting but there needs to be a system independent from Microsoft. That's where AltAuth comes in, it allows you to join Minecraft servers without contacting Microsoft servers (and no the servers don't need to be cracked).
 ## How to join
 
 ## How it works
