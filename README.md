@@ -14,3 +14,4 @@
 ## How it works
 
 ## Credits
+[Block icon in logo made by Flaticon.]((https://www.flaticon.com/free-icons/block)
