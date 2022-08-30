@@ -1,1 +1,1 @@
-![Logo](./Logos/logo.png)
+![Logo](./Logos/AltAuth.png)
